@@ -11,7 +11,7 @@ namespace OperacoesBasicas.Entidades
                 throw new DivideByZeroException("Impossível divisão por zero");
             }
 
-            return a / b;
+            return (double) a / b;
         }
     }
 }
