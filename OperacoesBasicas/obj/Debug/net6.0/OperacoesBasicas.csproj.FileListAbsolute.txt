@@ -1,0 +1,15 @@
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.csproj.AssemblyReference.cache
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.AssemblyInfoInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.AssemblyInfo.cs
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.exe
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.deps.json
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.runtimeconfig.json
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.dll
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\bin\Debug\net6.0\ref\OperacoesBasicas.dll
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.dll
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\ref\OperacoesBasicas.dll
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.genruntimeconfig.cache

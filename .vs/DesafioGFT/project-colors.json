@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25ea012d-832b-4041-8063-f8dc5dcadd7d": {
+      "ProjectGuid": "25ea012d-832b-4041-8063-f8dc5dcadd7d",
+      "DisplayName": "RendaFuncionario",
+      "ColorIndex": 0
+    },
+    "5c5a66c8-1638-45d6-a91e-7e5308c3bed0": {
+      "ProjectGuid": "5c5a66c8-1638-45d6-a91e-7e5308c3bed0",
+      "DisplayName": "RendaFuncionario",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

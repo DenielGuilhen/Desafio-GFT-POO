@@ -1,0 +1,15 @@
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\bin\Debug\net6.0\SomaLetras.exe
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\bin\Debug\net6.0\SomaLetras.deps.json
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\bin\Debug\net6.0\SomaLetras.runtimeconfig.json
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\bin\Debug\net6.0\SomaLetras.dll
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\bin\Debug\net6.0\ref\SomaLetras.dll
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\bin\Debug\net6.0\SomaLetras.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.csproj.AssemblyReference.cache
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.AssemblyInfoInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.AssemblyInfo.cs
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.dll
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\ref\SomaLetras.dll
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\SomaLetras\obj\Debug\net6.0\SomaLetras.genruntimeconfig.cache

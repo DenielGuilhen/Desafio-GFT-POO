@@ -1,0 +1,15 @@
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\bin\Debug\net6.0\RendaFuncionario.exe
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\bin\Debug\net6.0\RendaFuncionario.deps.json
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\bin\Debug\net6.0\RendaFuncionario.runtimeconfig.json
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\bin\Debug\net6.0\RendaFuncionario.dll
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\bin\Debug\net6.0\ref\RendaFuncionario.dll
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\bin\Debug\net6.0\RendaFuncionario.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.csproj.AssemblyReference.cache
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.AssemblyInfoInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.AssemblyInfo.cs
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.dll
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\ref\RendaFuncionario.dll
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\RendaFuncionario\obj\Debug\net6.0\RendaFuncionario.genruntimeconfig.cache

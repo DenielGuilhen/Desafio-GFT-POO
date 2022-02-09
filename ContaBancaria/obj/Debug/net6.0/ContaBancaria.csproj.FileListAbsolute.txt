@@ -1,0 +1,14 @@
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\bin\Debug\net6.0\ContaBancaria.exe
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\bin\Debug\net6.0\ContaBancaria.deps.json
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\bin\Debug\net6.0\ContaBancaria.runtimeconfig.json
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\bin\Debug\net6.0\ContaBancaria.dll
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\bin\Debug\net6.0\ref\ContaBancaria.dll
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\bin\Debug\net6.0\ContaBancaria.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.dll
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ref\ContaBancaria.dll
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.pdb
+C:\Users\Deniel\source\repos\DesafioGFT\ContaBancaria\obj\Debug\net6.0\ContaBancaria.genruntimeconfig.cache
